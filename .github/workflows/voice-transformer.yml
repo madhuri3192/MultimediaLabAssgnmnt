@@ -1,0 +1,42 @@
+name: voice-transformer
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "voice-transformer/**"
+      - ".github/workflows/voice-transformer.yml"
+  pull_request:
+    paths:
+      - "voice-transformer/**"
+      - ".github/workflows/voice-transformer.yml"
+
+concurrency:
+  group: voice-transformer-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    name: Lint, typecheck, test, build
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: voice-transformer
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          package_json_file: voice-transformer/package.json
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: voice-transformer/pnpm-lock.yaml
+
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm test
+      - run: pnpm build

@@ -1,0 +1,116 @@
+@import "tailwindcss";
+
+/*
+ * Design tokens. Neutral, audio-first palette with a single accent.
+ * Light is the default; dark follows the OS preference.
+ */
+:root {
+  --background: #f6f6f7;
+  --surface: #ffffff;
+  --surface-muted: #f1f1f3;
+  --border: #e3e3e8;
+  --border-strong: #c9c9d2;
+  --foreground: #17171c;
+  --muted: #6b6b76;
+  --accent: #4f46e5;
+  --accent-hover: #4338ca;
+  --accent-soft: #eef0ff;
+  --accent-foreground: #ffffff;
+  --danger: #dc2626;
+  --danger-hover: #b91c1c;
+  --danger-soft: #fef2f2;
+  --success: #15803d;
+  --success-soft: #f0fdf4;
+  --recording: #e11d48;
+  --ring: #4f46e5;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0c0c0f;
+    --surface: #141418;
+    --surface-muted: #1c1c22;
+    --border: #26262e;
+    --border-strong: #3a3a45;
+    --foreground: #f2f2f5;
+    --muted: #9c9ca8;
+    --accent: #818cf8;
+    --accent-hover: #a5b4fc;
+    --accent-soft: rgba(129, 140, 248, 0.14);
+    --accent-foreground: #0c0c0f;
+    --danger: #f87171;
+    --danger-hover: #fca5a5;
+    --danger-soft: rgba(248, 113, 113, 0.12);
+    --success: #4ade80;
+    --success-soft: rgba(74, 222, 128, 0.12);
+    --recording: #fb7185;
+    --ring: #a5b4fc;
+  }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-danger: var(--danger);
+  --color-danger-hover: var(--danger-hover);
+  --color-danger-soft: var(--danger-soft);
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-recording: var(--recording);
+  --color-ring: var(--ring);
+  --font-sans:
+    ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
+    sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Native audio controls pick up the colour scheme; keep them full-width and compact. */
+audio {
+  width: 100%;
+  height: 40px;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Indeterminate progress bar used while a conversion is in flight. */
+@keyframes indeterminate {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(300%);
+  }
+}

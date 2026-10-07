@@ -1,0 +1,1028 @@
+{
+  "degraded/en_invoice__clean.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "clean",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__gauss_blur.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "gauss_blur",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__motion_blur.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "motion_blur",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__dark.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "dark",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__overexposed.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "overexposed",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__low_contrast.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "low_contrast",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__noise.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "noise",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__jpeg.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "jpeg",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__inverted.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "inverted",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__rot90.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "rot90",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__rot180.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "rot180",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__rot270.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "rot270",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__skew.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "skew",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__perspective.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "perspective",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__shadow.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "shadow",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__low_res.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "low_res",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__faded_color.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "faded_color",
+    "card": "en_invoice"
+  },
+  "degraded/en_invoice__combo.png": {
+    "text": "Invoice No. 4821 - Due 12 March 2026\nTotal amount payable: $1,249.50\nPlease keep this receipt for your records.",
+    "lang": "en",
+    "degradation": "combo",
+    "card": "en_invoice"
+  },
+  "degraded/en_sign__clean.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "clean",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__gauss_blur.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "gauss_blur",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__motion_blur.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "motion_blur",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__dark.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "dark",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__overexposed.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "overexposed",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__low_contrast.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "low_contrast",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__noise.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "noise",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__jpeg.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "jpeg",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__inverted.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "inverted",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__rot90.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "rot90",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__rot180.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "rot180",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__rot270.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "rot270",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__skew.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "skew",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__perspective.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "perspective",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__shadow.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "shadow",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__low_res.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "low_res",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__faded_color.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "faded_color",
+    "card": "en_sign"
+  },
+  "degraded/en_sign__combo.png": {
+    "text": "EMERGENCY EXIT\nKeep this door closed",
+    "lang": "en",
+    "degradation": "combo",
+    "card": "en_sign"
+  },
+  "degraded/en_serif__clean.png": {
+    "text": "The quick brown fox jumps\nover the lazy dog near 221B Baker Street.",
+    "lang": "en",
+    "degradation": "clean",
+    "card": "en_serif"
+  },
+  "degraded/en_serif__gauss_blur.png": {
+    "text": "The quick brown fox jumps\nover the lazy dog near 221B Baker Street.",
+    "lang": "en",
+    "degradation": "gauss_blur",
+    "card": "en_serif"
+  },
+  "degraded/en_serif__dark.png": {
+    "text": "The quick brown fox jumps\nover the lazy dog near 221B Baker Street.",
+    "lang": "en",
+    "degradation": "dark",
+    "card": "en_serif"
+  },
+  "degraded/en_serif__low_contrast.png": {
+    "text": "The quick brown fox jumps\nover the lazy dog near 221B Baker Street.",
+    "lang": "en",
+    "degradation": "low_contrast",
+    "card": "en_serif"
+  },
+  "degraded/en_serif__inverted.png": {
+    "text": "The quick brown fox jumps\nover the lazy dog near 221B Baker Street.",
+    "lang": "en",
+    "degradation": "inverted",
+    "card": "en_serif"
+  },
+  "degraded/en_serif__rot180.png": {
+    "text": "The quick brown fox jumps\nover the lazy dog near 221B Baker Street.",
+    "lang": "en",
+    "degradation": "rot180",
+    "card": "en_serif"
+  },
+  "degraded/en_serif__skew.png": {
+    "text": "The quick brown fox jumps\nover the lazy dog near 221B Baker Street.",
+    "lang": "en",
+    "degradation": "skew",
+    "card": "en_serif"
+  },
+  "degraded/en_serif__shadow.png": {
+    "text": "The quick brown fox jumps\nover the lazy dog near 221B Baker Street.",
+    "lang": "en",
+    "degradation": "shadow",
+    "card": "en_serif"
+  },
+  "degraded/en_serif__combo.png": {
+    "text": "The quick brown fox jumps\nover the lazy dog near 221B Baker Street.",
+    "lang": "en",
+    "degradation": "combo",
+    "card": "en_serif"
+  },
+  "degraded/es_text__clean.png": {
+    "text": "El rápido zorro marrón salta\nsobre el perro perezoso. Año 2026",
+    "lang": "es",
+    "degradation": "clean",
+    "card": "es_text"
+  },
+  "degraded/es_text__gauss_blur.png": {
+    "text": "El rápido zorro marrón salta\nsobre el perro perezoso. Año 2026",
+    "lang": "es",
+    "degradation": "gauss_blur",
+    "card": "es_text"
+  },
+  "degraded/es_text__dark.png": {
+    "text": "El rápido zorro marrón salta\nsobre el perro perezoso. Año 2026",
+    "lang": "es",
+    "degradation": "dark",
+    "card": "es_text"
+  },
+  "degraded/es_text__low_contrast.png": {
+    "text": "El rápido zorro marrón salta\nsobre el perro perezoso. Año 2026",
+    "lang": "es",
+    "degradation": "low_contrast",
+    "card": "es_text"
+  },
+  "degraded/es_text__inverted.png": {
+    "text": "El rápido zorro marrón salta\nsobre el perro perezoso. Año 2026",
+    "lang": "es",
+    "degradation": "inverted",
+    "card": "es_text"
+  },
+  "degraded/es_text__rot180.png": {
+    "text": "El rápido zorro marrón salta\nsobre el perro perezoso. Año 2026",
+    "lang": "es",
+    "degradation": "rot180",
+    "card": "es_text"
+  },
+  "degraded/es_text__skew.png": {
+    "text": "El rápido zorro marrón salta\nsobre el perro perezoso. Año 2026",
+    "lang": "es",
+    "degradation": "skew",
+    "card": "es_text"
+  },
+  "degraded/es_text__shadow.png": {
+    "text": "El rápido zorro marrón salta\nsobre el perro perezoso. Año 2026",
+    "lang": "es",
+    "degradation": "shadow",
+    "card": "es_text"
+  },
+  "degraded/es_text__combo.png": {
+    "text": "El rápido zorro marrón salta\nsobre el perro perezoso. Año 2026",
+    "lang": "es",
+    "degradation": "combo",
+    "card": "es_text"
+  },
+  "degraded/fr_text__clean.png": {
+    "text": "Bienvenue à la bibliothèque\nOuvert du lundi au vendredi",
+    "lang": "fr",
+    "degradation": "clean",
+    "card": "fr_text"
+  },
+  "degraded/fr_text__gauss_blur.png": {
+    "text": "Bienvenue à la bibliothèque\nOuvert du lundi au vendredi",
+    "lang": "fr",
+    "degradation": "gauss_blur",
+    "card": "fr_text"
+  },
+  "degraded/fr_text__dark.png": {
+    "text": "Bienvenue à la bibliothèque\nOuvert du lundi au vendredi",
+    "lang": "fr",
+    "degradation": "dark",
+    "card": "fr_text"
+  },
+  "degraded/fr_text__low_contrast.png": {
+    "text": "Bienvenue à la bibliothèque\nOuvert du lundi au vendredi",
+    "lang": "fr",
+    "degradation": "low_contrast",
+    "card": "fr_text"
+  },
+  "degraded/fr_text__inverted.png": {
+    "text": "Bienvenue à la bibliothèque\nOuvert du lundi au vendredi",
+    "lang": "fr",
+    "degradation": "inverted",
+    "card": "fr_text"
+  },
+  "degraded/fr_text__rot180.png": {
+    "text": "Bienvenue à la bibliothèque\nOuvert du lundi au vendredi",
+    "lang": "fr",
+    "degradation": "rot180",
+    "card": "fr_text"
+  },
+  "degraded/fr_text__skew.png": {
+    "text": "Bienvenue à la bibliothèque\nOuvert du lundi au vendredi",
+    "lang": "fr",
+    "degradation": "skew",
+    "card": "fr_text"
+  },
+  "degraded/fr_text__shadow.png": {
+    "text": "Bienvenue à la bibliothèque\nOuvert du lundi au vendredi",
+    "lang": "fr",
+    "degradation": "shadow",
+    "card": "fr_text"
+  },
+  "degraded/fr_text__combo.png": {
+    "text": "Bienvenue à la bibliothèque\nOuvert du lundi au vendredi",
+    "lang": "fr",
+    "degradation": "combo",
+    "card": "fr_text"
+  },
+  "degraded/de_text__clean.png": {
+    "text": "Größe und Gewicht prüfen\nHauptstraße 15, München",
+    "lang": "de",
+    "degradation": "clean",
+    "card": "de_text"
+  },
+  "degraded/de_text__gauss_blur.png": {
+    "text": "Größe und Gewicht prüfen\nHauptstraße 15, München",
+    "lang": "de",
+    "degradation": "gauss_blur",
+    "card": "de_text"
+  },
+  "degraded/de_text__dark.png": {
+    "text": "Größe und Gewicht prüfen\nHauptstraße 15, München",
+    "lang": "de",
+    "degradation": "dark",
+    "card": "de_text"
+  },
+  "degraded/de_text__low_contrast.png": {
+    "text": "Größe und Gewicht prüfen\nHauptstraße 15, München",
+    "lang": "de",
+    "degradation": "low_contrast",
+    "card": "de_text"
+  },
+  "degraded/de_text__inverted.png": {
+    "text": "Größe und Gewicht prüfen\nHauptstraße 15, München",
+    "lang": "de",
+    "degradation": "inverted",
+    "card": "de_text"
+  },
+  "degraded/de_text__rot180.png": {
+    "text": "Größe und Gewicht prüfen\nHauptstraße 15, München",
+    "lang": "de",
+    "degradation": "rot180",
+    "card": "de_text"
+  },
+  "degraded/de_text__skew.png": {
+    "text": "Größe und Gewicht prüfen\nHauptstraße 15, München",
+    "lang": "de",
+    "degradation": "skew",
+    "card": "de_text"
+  },
+  "degraded/de_text__shadow.png": {
+    "text": "Größe und Gewicht prüfen\nHauptstraße 15, München",
+    "lang": "de",
+    "degradation": "shadow",
+    "card": "de_text"
+  },
+  "degraded/de_text__combo.png": {
+    "text": "Größe und Gewicht prüfen\nHauptstraße 15, München",
+    "lang": "de",
+    "degradation": "combo",
+    "card": "de_text"
+  },
+  "degraded/hi_text__clean.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "clean",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__gauss_blur.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "gauss_blur",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__motion_blur.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "motion_blur",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__dark.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "dark",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__overexposed.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "overexposed",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__low_contrast.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "low_contrast",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__noise.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "noise",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__jpeg.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "jpeg",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__inverted.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "inverted",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__rot90.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "rot90",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__rot180.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "rot180",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__rot270.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "rot270",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__skew.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "skew",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__perspective.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "perspective",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__shadow.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "shadow",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__low_res.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "low_res",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__faded_color.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "faded_color",
+    "card": "hi_text"
+  },
+  "degraded/hi_text__combo.png": {
+    "text": "भारत एक विशाल देश है\nआज का तापमान 32 डिग्री है\nकृपया शांति बनाए रखें",
+    "lang": "hi",
+    "degradation": "combo",
+    "card": "hi_text"
+  },
+  "degraded/ru_text__clean.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "clean",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__gauss_blur.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "gauss_blur",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__motion_blur.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "motion_blur",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__dark.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "dark",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__overexposed.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "overexposed",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__low_contrast.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "low_contrast",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__noise.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "noise",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__jpeg.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "jpeg",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__inverted.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "inverted",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__rot90.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "rot90",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__rot180.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "rot180",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__rot270.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "rot270",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__skew.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "skew",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__perspective.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "perspective",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__shadow.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "shadow",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__low_res.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "low_res",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__faded_color.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "faded_color",
+    "card": "ru_text"
+  },
+  "degraded/ru_text__combo.png": {
+    "text": "Добро пожаловать в Москву\nЦена билета: 450 рублей",
+    "lang": "ru",
+    "degradation": "combo",
+    "card": "ru_text"
+  },
+  "degraded/ar_text__clean.png": {
+    "text": "مرحبا بكم في المكتبة\nساعات العمل من التاسعة صباحا",
+    "lang": "ar",
+    "degradation": "clean",
+    "card": "ar_text"
+  },
+  "degraded/ar_text__gauss_blur.png": {
+    "text": "مرحبا بكم في المكتبة\nساعات العمل من التاسعة صباحا",
+    "lang": "ar",
+    "degradation": "gauss_blur",
+    "card": "ar_text"
+  },
+  "degraded/ar_text__dark.png": {
+    "text": "مرحبا بكم في المكتبة\nساعات العمل من التاسعة صباحا",
+    "lang": "ar",
+    "degradation": "dark",
+    "card": "ar_text"
+  },
+  "degraded/ar_text__low_contrast.png": {
+    "text": "مرحبا بكم في المكتبة\nساعات العمل من التاسعة صباحا",
+    "lang": "ar",
+    "degradation": "low_contrast",
+    "card": "ar_text"
+  },
+  "degraded/ar_text__inverted.png": {
+    "text": "مرحبا بكم في المكتبة\nساعات العمل من التاسعة صباحا",
+    "lang": "ar",
+    "degradation": "inverted",
+    "card": "ar_text"
+  },
+  "degraded/ar_text__rot180.png": {
+    "text": "مرحبا بكم في المكتبة\nساعات العمل من التاسعة صباحا",
+    "lang": "ar",
+    "degradation": "rot180",
+    "card": "ar_text"
+  },
+  "degraded/ar_text__skew.png": {
+    "text": "مرحبا بكم في المكتبة\nساعات العمل من التاسعة صباحا",
+    "lang": "ar",
+    "degradation": "skew",
+    "card": "ar_text"
+  },
+  "degraded/ar_text__shadow.png": {
+    "text": "مرحبا بكم في المكتبة\nساعات العمل من التاسعة صباحا",
+    "lang": "ar",
+    "degradation": "shadow",
+    "card": "ar_text"
+  },
+  "degraded/ar_text__combo.png": {
+    "text": "مرحبا بكم في المكتبة\nساعات العمل من التاسعة صباحا",
+    "lang": "ar",
+    "degradation": "combo",
+    "card": "ar_text"
+  },
+  "degraded/zh_text__clean.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "clean",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__gauss_blur.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "gauss_blur",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__motion_blur.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "motion_blur",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__dark.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "dark",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__overexposed.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "overexposed",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__low_contrast.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "low_contrast",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__noise.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "noise",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__jpeg.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "jpeg",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__inverted.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "inverted",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__rot90.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "rot90",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__rot180.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "rot180",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__rot270.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "rot270",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__skew.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "skew",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__perspective.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "perspective",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__shadow.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "shadow",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__low_res.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "low_res",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__faded_color.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "faded_color",
+    "card": "zh_text"
+  },
+  "degraded/zh_text__combo.png": {
+    "text": "欢迎来到图书馆\n营业时间上午九点至下午六点",
+    "lang": "zh",
+    "degradation": "combo",
+    "card": "zh_text"
+  },
+  "degraded/ja_text__clean.png": {
+    "text": "東京駅はこちらです\nご利用ありがとうございます",
+    "lang": "ja",
+    "degradation": "clean",
+    "card": "ja_text"
+  },
+  "degraded/ja_text__gauss_blur.png": {
+    "text": "東京駅はこちらです\nご利用ありがとうございます",
+    "lang": "ja",
+    "degradation": "gauss_blur",
+    "card": "ja_text"
+  },
+  "degraded/ja_text__dark.png": {
+    "text": "東京駅はこちらです\nご利用ありがとうございます",
+    "lang": "ja",
+    "degradation": "dark",
+    "card": "ja_text"
+  },
+  "degraded/ja_text__low_contrast.png": {
+    "text": "東京駅はこちらです\nご利用ありがとうございます",
+    "lang": "ja",
+    "degradation": "low_contrast",
+    "card": "ja_text"
+  },
+  "degraded/ja_text__inverted.png": {
+    "text": "東京駅はこちらです\nご利用ありがとうございます",
+    "lang": "ja",
+    "degradation": "inverted",
+    "card": "ja_text"
+  },
+  "degraded/ja_text__rot180.png": {
+    "text": "東京駅はこちらです\nご利用ありがとうございます",
+    "lang": "ja",
+    "degradation": "rot180",
+    "card": "ja_text"
+  },
+  "degraded/ja_text__skew.png": {
+    "text": "東京駅はこちらです\nご利用ありがとうございます",
+    "lang": "ja",
+    "degradation": "skew",
+    "card": "ja_text"
+  },
+  "degraded/ja_text__shadow.png": {
+    "text": "東京駅はこちらです\nご利用ありがとうございます",
+    "lang": "ja",
+    "degradation": "shadow",
+    "card": "ja_text"
+  },
+  "degraded/ja_text__combo.png": {
+    "text": "東京駅はこちらです\nご利用ありがとうございます",
+    "lang": "ja",
+    "degradation": "combo",
+    "card": "ja_text"
+  },
+  "degraded/ko_text__clean.png": {
+    "text": "서울 지하철 2호선\n안녕하세요 반갑습니다",
+    "lang": "ko",
+    "degradation": "clean",
+    "card": "ko_text"
+  },
+  "degraded/ko_text__gauss_blur.png": {
+    "text": "서울 지하철 2호선\n안녕하세요 반갑습니다",
+    "lang": "ko",
+    "degradation": "gauss_blur",
+    "card": "ko_text"
+  },
+  "degraded/ko_text__dark.png": {
+    "text": "서울 지하철 2호선\n안녕하세요 반갑습니다",
+    "lang": "ko",
+    "degradation": "dark",
+    "card": "ko_text"
+  },
+  "degraded/ko_text__low_contrast.png": {
+    "text": "서울 지하철 2호선\n안녕하세요 반갑습니다",
+    "lang": "ko",
+    "degradation": "low_contrast",
+    "card": "ko_text"
+  },
+  "degraded/ko_text__inverted.png": {
+    "text": "서울 지하철 2호선\n안녕하세요 반갑습니다",
+    "lang": "ko",
+    "degradation": "inverted",
+    "card": "ko_text"
+  },
+  "degraded/ko_text__rot180.png": {
+    "text": "서울 지하철 2호선\n안녕하세요 반갑습니다",
+    "lang": "ko",
+    "degradation": "rot180",
+    "card": "ko_text"
+  },
+  "degraded/ko_text__skew.png": {
+    "text": "서울 지하철 2호선\n안녕하세요 반갑습니다",
+    "lang": "ko",
+    "degradation": "skew",
+    "card": "ko_text"
+  },
+  "degraded/ko_text__shadow.png": {
+    "text": "서울 지하철 2호선\n안녕하세요 반갑습니다",
+    "lang": "ko",
+    "degradation": "shadow",
+    "card": "ko_text"
+  },
+  "degraded/ko_text__combo.png": {
+    "text": "서울 지하철 2호선\n안녕하세요 반갑습니다",
+    "lang": "ko",
+    "degradation": "combo",
+    "card": "ko_text"
+  },
+  "degraded/mixed_en_hi__clean.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "clean",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__gauss_blur.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "gauss_blur",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__motion_blur.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "motion_blur",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__dark.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "dark",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__overexposed.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "overexposed",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__low_contrast.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "low_contrast",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__noise.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "noise",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__jpeg.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "jpeg",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__inverted.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "inverted",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__rot90.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "rot90",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__rot180.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "rot180",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__rot270.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "rot270",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__skew.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "skew",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__perspective.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "perspective",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__shadow.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "shadow",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__low_res.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "low_res",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__faded_color.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "faded_color",
+    "card": "mixed_en_hi"
+  },
+  "degraded/mixed_en_hi__combo.png": {
+    "text": "Platform No. 3\nप्लेटफॉर्म नंबर 3\nNext train 10:45",
+    "lang": "en,hi",
+    "degradation": "combo",
+    "card": "mixed_en_hi"
+  }
+}

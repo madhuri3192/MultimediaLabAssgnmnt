@@ -1,0 +1,6 @@
+Pillow>=10.4,<13
+numpy>=1.26,<3
+opencv-python-headless>=4.10,<5
+rapidocr>=3.9,<4
+onnxruntime>=1.17
+python-bidi>=0.6
